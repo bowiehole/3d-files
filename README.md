@@ -5,7 +5,7 @@
 ```
 project-name/
   README.md      what it is, what it fits
-  Proto-1.stl    keep revisions in the same folder
+  project-name.stl
 ```
 
 ## Projects
@@ -13,5 +13,6 @@ project-name/
 | Folder | What |
 |--------|------|
 | [cybertruck-mirror-gopro](cybertruck-mirror-gopro/) | Cybertruck mirror attach point → GoPro mount |
+| [cybertruck-rack-dji-mic-3](cybertruck-rack-dji-mic-3/) | Cybertruck rack mount → DJI Mic 3 holder |
 
 This repository is private.
