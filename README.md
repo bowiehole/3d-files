@@ -12,6 +12,7 @@ project-name/
 
 | Folder | What |
 |--------|------|
+| [cybertruck-mirror-bolt](cybertruck-mirror-bolt/) | Cybertruck mirror attach point → bolt mount |
 | [cybertruck-mirror-gopro](cybertruck-mirror-gopro/) | Cybertruck mirror attach point → GoPro mount |
 | [cybertruck-rack-dji-mic-3](cybertruck-rack-dji-mic-3/) | Cybertruck rack mount → DJI Mic 3 holder |
 
